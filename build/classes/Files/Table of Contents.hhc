@@ -1,0 +1,180 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="LogsimHelp">
+		<param name="Local" value="Files\1.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Tietoja ohjelmasta">
+		<param name="Local" value="Files\tietoja_ohjelmasta.htm">
+		<param name="URL" value="Files\tietoja_ohjelmasta.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ohjelman sis&auml;lt&auml;m&auml;t I/O-symbolit">
+		<param name="Local" value="Files\Symbolit.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ohjelman sis&auml;lt&auml;m&auml;t piirit">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Kombinaatiopiirit">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="And-piiri">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="And2-piiri">
+					<param name="Local" value="Files\And2TT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="And3-piiri">
+					<param name="Local" value="Files\And3TT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="And4-piiri">
+					<param name="Local" value="Files\And4TT.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="NAND-piiri">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NAnd2-piiri">
+					<param name="Local" value="Files\NAnd2TT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NAnd3-piiri">
+					<param name="Local" value="Files\NAnd3TT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NAnd4-piiri">
+					<param name="Local" value="Files\NAnd4TT.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="OR-piiri">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="OR2-piiri">
+					<param name="Local" value="Files\OR2TT.htm">
+					<param name="URL" value="Files\OR2TT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="OR3-piiri">
+					<param name="Local" value="Files\OR3TT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="OR4-piiri">
+					<param name="Local" value="Files\OR4TT.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="NOR-piiri">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NOR2-piiri">
+					<param name="Local" value="Files\NOR2TT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NOR3-piiri">
+					<param name="Local" value="Files\NOR3TT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NOR4-piiri">
+					<param name="Local" value="Files\NOR4TT.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Invertteri">
+				<param name="Local" value="Files\InvertteriTT.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="XOR-piiri">
+				<param name="Local" value="Files\XorTT.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="XNOR-piiri">
+				<param name="Local" value="Files\XnorTT.htm">
+				<param name="URL" value="Files\XnorTT.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Sekvenssipiiri">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="RS -kiikku">
+				<param name="Local" value="Files\RSTT.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="D -kiikku">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Nousevalla reunalla liipaistava, set ja reset: 0 akt.">
+					<param name="Local" value="Files\D1TT.htm">
+					<param name="URL" value="Files\D1TT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Nousevalla reunalla liipaistava, set ja reset: 1 akt.">
+					<param name="Local" value="Files\D2TT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Laskevalla reunalla liipaistava, set ja reset: 0 akt.">
+					<param name="Local" value="Files\D3TT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Laskevalla reunalla liipaistava, set ja reset 1 akt.">
+					<param name="Local" value="Files\JK4TT.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="JK -kiikku">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="JK nousevalla reunalla liipaistava">
+					<param name="Local" value="Files\JKTT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="JK laskevalla reunalla liipaistava">
+					<param name="Local" value="Files\JK2TT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="JK nousevalla reunalla liipaistava, set ja reset: 0 akt.">
+					<param name="Local" value="Files\JK3TT.htm">
+					<param name="URL" value="Files\JK3TT.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="JK nousevalla reunalla liipaistava, set ja reset: 1 akt.">
+					<param name="Local" value="Files\JK4TT.htm">
+					<param name="URL" value="Files\JK4TT.htm">
+					</OBJECT>
+			</UL>
+		</UL>
+	</UL>
+</UL>
+</BODY></HTML>

@@ -1,0 +1,1 @@
+logsim.NOr2Input

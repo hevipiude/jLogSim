@@ -1,0 +1,1 @@
+logsim.XNOr2Input

@@ -1,0 +1,378 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="LogsimHelp">
+		<param name="Local" value="Files\1.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Yleiset tiedot ohjelmasta">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Tietoja ohjelmasta">
+			<param name="Local" value="Files\tietoja_ohjelmasta.htm">
+			<param name="URL" value="Files\tietoja_ohjelmasta.htm">
+			<param name="ImageNumber" value="17">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Kieliasetukset">
+			<param name="Local" value="Files\Kieliasetukset.htm">
+			<param name="ImageNumber" value="17">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ohjelman sis&auml;lt&auml;m&auml;t I/O-symbolit">
+			<param name="Local" value="Files\Symbolit.htm">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Tila-1">
+				<param name="Local" value="Files\I_O_symbolit.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Tila-0">
+				<param name="Local" value="Files\I_O_symbolit.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Kello">
+				<param name="Local" value="Files\I_O_symbolit.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Tulo">
+				<param name="Local" value="Files\I_O_symbolit.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="L&auml;ht&ouml;">
+				<param name="Local" value="Files\I_O_symbolit.htm">
+				</OBJECT>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ohjelman sis&auml;lt&auml;m&auml;t piirit">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Kombinaatiopiirit">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="And-piiri">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="2 -tuloinen And">
+						<param name="Local" value="Files\And2TT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="3 -tuloinen And">
+						<param name="Local" value="Files\And3TT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="4 -tuloinen And">
+						<param name="Local" value="Files\And4TT.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NAND-piiri">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="2 -tuloinen NAnd">
+						<param name="Local" value="Files\NAnd2TT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="3 -tuloinen NAnd">
+						<param name="Local" value="Files\NAnd3TT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="4 -tuloinen NAnd">
+						<param name="Local" value="Files\NAnd4TT.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="OR-piiri">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="2 -tuloinen OR">
+						<param name="Local" value="Files\OR2TT.htm">
+						<param name="URL" value="Files\OR2TT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="3 -tuloinen OR">
+						<param name="Local" value="Files\OR3TT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="4 -tuloinen OR">
+						<param name="Local" value="Files\OR4TT.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="NOR-piiri">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="2 -tuloinen NOR">
+						<param name="Local" value="Files\NOR2TT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="3 -tuloinen NOR">
+						<param name="Local" value="Files\NOR3TT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="4 -tuloinen NOR">
+						<param name="Local" value="Files\NOR4TT.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Invertteri">
+					<param name="Local" value="Files\InvertteriTT.htm">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="XOR-piiri">
+					<param name="Local" value="Files\XorTT.htm">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="XNOR-piiri">
+					<param name="Local" value="Files\XnorTT.htm">
+					<param name="URL" value="Files\XnorTT.htm">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Sekvenssipiiri">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="RS -kiikku">
+					<param name="Local" value="Files\RSTT.htm">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="D -kiikku">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Nousevalla reunalla liipaistava, set ja reset: 1 akt.">
+						<param name="Local" value="Files\D1TT.htm">
+						<param name="URL" value="Files\D1TT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Nousevalla reunalla liipaistava, set ja reset: 0 akt.">
+						<param name="Local" value="Files\D2TT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Laskevalla reunalla liipaistava, set ja reset: 1 akt.">
+						<param name="Local" value="Files\D3TT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="Laskevalla reunalla liipaistava, set ja reset 0 akt.">
+						<param name="Local" value="Files\D4TT.htm">
+						</OBJECT>
+				</UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="JK -kiikku">
+					<param name="ImageNumber" value="1">
+					</OBJECT>
+				<UL>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="JK nousevalla reunalla liipaistava">
+						<param name="Local" value="Files\JKTT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="JK laskevalla reunalla liipaistava">
+						<param name="Local" value="Files\JK2TT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="JK nousevalla reunalla liipaistava, set ja reset: 1 akt.">
+						<param name="Local" value="Files\JK3TT.htm">
+						<param name="URL" value="Files\JK3TT.htm">
+						</OBJECT>
+					<LI> <OBJECT type="text/sitemap">
+						<param name="Name" value="JK nousevalla reunalla liipaistava, set ja reset: 0 akt.">
+						<param name="Local" value="Files\JK4TT.htm">
+						<param name="URL" value="Files\JK4TT.htm">
+						</OBJECT>
+				</UL>
+			</UL>
+		</UL>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ohjelman toiminnat">
+		<param name="Local" value="Files\Ohjelman_toiminnat.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Valikkokomennot">
+			<param name="Local" value="Files\Valikkokomennot.htm">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Tiedosto">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Uusi">
+					<param name="Local" value="Files\Tiedosto_uusi.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Avaa...">
+					<param name="Local" value="Files\Tiedosto_avaa.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Tallenna">
+					<param name="Local" value="Files\Tiedosto_tallenna.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Tallenna nimell&auml;">
+					<param name="Local" value="Files\Tiedosto_tallenna_nimella.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Tulosta">
+					<param name="Local" value="Files\Tiedosto_tulosta.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Asettelu">
+					<param name="Local" value="Files\Tiedosto_asettelu.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Lopeta">
+					<param name="Local" value="Files\Tiedosto_lopeta.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Lis&auml;&auml;">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Kombinaatiopiiri">
+					<param name="Local" value="Files\Lisaa_kompinaatiopiiri.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Sekvenssipiiri">
+					<param name="Local" value="Files\Lisaa_sekvenssipiiri.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Tulot (input)">
+					<param name="Local" value="Files\Lisaa_tulo.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="L&auml;hd&ouml;t (output)">
+					<param name="Local" value="Files\Lahto.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Tekstikentt&auml;">
+					<param name="Local" value="Files\Tekstikentta.htm">
+					</OBJECT>
+			</UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Ohje">
+				<param name="ImageNumber" value="1">
+				</OBJECT>
+			<UL>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Ohje">
+					<param name="Local" value="Files\Ohje.htm">
+					</OBJECT>
+				<LI> <OBJECT type="text/sitemap">
+					<param name="Name" value="Tietoja">
+					<param name="Local" value="Files\Tietoja.htm">
+					</OBJECT>
+			</UL>
+		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Pikavalintatoiminnat">
+			<param name="Local" value="Files\Pikavalinta.htm">
+			<param name="ImageNumber" value="1">
+			</OBJECT>
+		<UL>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Raportti">
+				<param name="Local" value="Files\Raportti.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Simuloiminen">
+				<param name="Local" value="Files\Simuloi.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Askeltaminen">
+				<param name="Local" value="Files\Askeltaminen.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Valitsin">
+				<param name="Local" value="Files\Valitsin.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Tekstikentt&auml;">
+				<param name="Local" value="Files\Tekstikentta.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Nastanumero">
+				<param name="Local" value="Files\Nastanumero.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Tiedot komponentista">
+				<param name="Local" value="Files\Tiedot_komponentista.htm">
+				</OBJECT>
+			<LI> <OBJECT type="text/sitemap">
+				<param name="Name" value="Esit&auml; totuustaulu">
+				<param name="Local" value="Files\totuustaulu.htm">
+				</OBJECT>
+		</UL>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Logiikan tekeminen">
+		<param name="Local" value="Files\Logiikan_teko.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Piirin valinta">
+			<param name="Local" value="Files\Piirin_valinta.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Piirin poisto">
+			<param name="Local" value="Files\Piirin_poisto.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="I/O-symbolin valinta">
+			<param name="Local" value="Files\I_O_valinta.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="I/O-symbolin poisto">
+			<param name="Local" value="Files\I_O_poisto.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Johdon piirto">
+			<param name="Local" value="Files\Johdon_piirto.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Johdon poistaminen">
+			<param name="Local" value="Files\Johdon_poistaminen.htm">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>
